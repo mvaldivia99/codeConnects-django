@@ -32,4 +32,4 @@ $RECYCLE.BIN/
 *.code-workspace
 
 # bootstrap icons
-blog/templates/blog/icons/*.svg
+#blog/templates/blog/icons/*.svg
